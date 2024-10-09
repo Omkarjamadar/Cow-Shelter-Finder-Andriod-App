@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152326830885",
+    "project_id": "cowshelter-8856a",
+    "storage_bucket": "cowshelter-8856a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152326830885:android:5f2e8825b2f2e09034f8cc",
+        "android_client_info": {
+          "package_name": "com.developstudio.cowshelterfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2uc_XxMAWXpgfbo2pe2YvYuuTA00sMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

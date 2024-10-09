@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/subtitle"
+            android:title="@string/profile">
+            <menu>
+                <item
+                    android:id="@+id/myProfile"
+                    android:icon="@drawable/person_24"
+                    android:title="@string/my_profile" />
+
+            </menu>
+        </item>
+    </group>
+
+
+    <group
+        android:id="@+id/group4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/group5"
+            android:title="@string/more_options">
+            <menu>
+
+                <item
+                    android:id="@+id/myHelp"
+                    android:icon="@drawable/support_agent_24"
+                    android:title="@string/help_feedback" />
+
+
+                <item
+                    android:id="@+id/aboutUs"
+                    android:icon="@drawable/info_outline_24"
+                    android:title="@string/about_us" />
+
+
+
+                <item
+                    android:id="@+id/myShare"
+                    android:icon="@drawable/share_24"
+                    android:title="@string/share" />
+
+                <item
+                    android:id="@+id/myLogout"
+                    android:icon="@drawable/logout_24"
+                    android:title="@string/logout" />
+
+            </menu>
+        </item>
+    </group>
+
+
+</menu>
